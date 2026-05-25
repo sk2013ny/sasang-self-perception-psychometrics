@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Backup folder
+backup_NEW/
+
+# R working files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS files
+Thumbs.db
+
