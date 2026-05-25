@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20374965.svg)](https://doi.org/10.5281/zenodo.20374965)
+
 # Psychological and Somatic Self-Perception Are Weakly Coupled in a Sasang Constitutional Questionnaire
 
 This repository contains the complete, reproducible, and organized R analysis pipeline for the **Sasang-derived survey dataset ($N = 983$ participants)**. 
