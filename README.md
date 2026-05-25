@@ -17,7 +17,7 @@ Data and analysis code for:
 **Author**: Seung-Nam Kim, College of Korean Medicine, Dongguk University  
 **Contact**: snkim@dongguk.edu  
 **ORCID**: [0000-0003-3038-727X](https://orcid.org/0000-0003-3038-727X)  
-**DOI**: [Zenodo DOI to be added after publication]
+**DOI**: [10.5281/zenodo.20374965](https://doi.org/10.5281/zenodo.20374965)
 ---
 
 ## 1. Core Re-analysis Findings (Summary Table)
